@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Boogieman07
+- 👋 Hi, I’m Gopinath S
 - 👀 I’m interested in Robotics ...
-- 🌱 I’m currently learning for some new ideas and projects..
+- 🌱 I’m currently looking for some new ideas and projects..
 - 📫  reach me @ ssgy2003@gmail.com...
 
 <!---
