@@ -13,10 +13,10 @@ This repository is a collection of my robotics projects and experiments. Here, y
 
 Some of the projects you can explore:
 
-- **Autonomous Navigation**: Building robots capable of navigating through unknown environments using various sensing techniques.
+- **Autonomous Navigation**: Building robots capable of navigating through unknown environments using various sensing techniques like A* etc.
 - **Robot Manipulation**: Developing robotic arms (kinova jaco arm) with precise control to perform tasks such as grasping objects or assembling components.
-- **Computer Vision**: Utilizing the power of vision systems to enable robots to perceive and understand their surroundings.
-- **Machine Learning in Robotics**: Integrating machine learning algorithms to enhance robot decision-making and autonomy.
+- **Computer Vision**: Utilizing the power of vision systems to enable robots to perceive and understand their surroundings (Obstacle avoiding Robot).
+- **Machine Learning in Robotics**: Integrating machine learning and deep learning algorithms like YOLO to enhance robot decision-making and autonomy.
 
 ## Collaborations
 
